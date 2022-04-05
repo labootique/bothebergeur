@@ -1,0 +1,28 @@
+{
+    "token": "OTU5NDk0NjM2MTU2NjI0OTU3.YkctAw.ckLWZjNrov0q5tRysXWZaNTdehY",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discordapp.com/api/webhooks/959498253970329681/X7cubb5uZ-AGsa4g_MTW7XaMUjI674t2lUORRcv6TjKWRicXaH1Tww3Wmgo1zWCIoKgX": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat&brand_id[]=14969&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&size_id[]=211&catalog[]=79&price_from=40.0&price_to=75.0&currency=EUR&search_id=4916762655&order=newest_first",
+            "salon": "bot supreme"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    },
+    "scripts"
+      "start": "node vinted.py"
+
+
+} 
+
